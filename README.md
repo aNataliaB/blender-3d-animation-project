@@ -1,7 +1,5 @@
 # 3D Mechanical Carousel Animation & Render
-![Blender Version](https://img.shields.io/badge/Blender-4.0%2B-orange?logo=blender&logoColor=white)
-![Render Engine](https://img.shields.io/badge/Render_Engine-Cycles-blue)
-
+![Blender Version](https://img.shields.io/badge/Blender-5.0%2B-orange?logo=blender&logoColor=white)
 A comprehensive 3D computer graphics project featuring a complex musical carousel (music box), designed, modeled, animated, and composed entirely by myself using Blender. This project demonstrates advanced hard-surface polygon modeling, mechanical animation, rigid body physics, and high-fidelity rendering.
 
 ## Live Video Demonstration
